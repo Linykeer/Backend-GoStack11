@@ -1,0 +1,23 @@
+{
+  "name": "backend-gostack11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linykeer/Backend-GoStack11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linykeer/Backend-GoStack11/issues"
+  },
+  "homepage": "https://github.com/Linykeer/Backend-GoStack11#readme",
+  "dependencies": {
+    "pg": "^8.3.3",
+    "typeorm": "^0.2.26"
+  }
+}
